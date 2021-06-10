@@ -1,10 +1,5 @@
 import * as React from "react"
 
-// styles
-const pageStyles = {
-  padding: 96,
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
 
 const IndexPage = () => {
     return (
