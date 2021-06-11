@@ -2,3 +2,8 @@ html {
     background-color: #696969;
     color: #FFFFF0;
 }
+
+body, a, p {
+    color: #FFFFF0;
+}
+
