@@ -1,6 +1,12 @@
 module.exports = {
+    siteMetadata: {
+	title: "Black Death Digital Archive"
+    },
+    
     plugins: [
 	"gatsby-plugin-gatsby-cloud",
+	"gatsby-plugin-image",
+	"gatsby-plugin-sharp",
 	{
 	    resolve: `gatsby-source-airtable`,
 	    options: {
@@ -13,6 +19,16 @@ module.exports = {
 
 		    },
 		],
+	    },
+	},
+	{
+	    resolve: "gatsby-plugin-web-font-loader",
+	    options: {},
+	},
+	{
+	    resolve: "gatsby-plugin-typography",
+	    options: {
+		pathToConfigModule: "src/utils/typography"
 	    },
 	},
     ],
