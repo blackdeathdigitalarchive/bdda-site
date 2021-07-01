@@ -3,23 +3,21 @@ import Layout from '../components/layout'
 
 const AboutPage = () => {
     return (
-	<Layout pageTitle = "About the Black Death Digital Archive">
-	    <p>In the past decade, the BDDA project participants have
-	    pioneered new approaches to the history of plague during
-	    the Second Plague Pandemic, the 500-year period in which
-	    new strains of plague spread throughout most of the Old
-	    World. This “new paradigm” in plague studies has readily
-	    adopted the evolutionary perspective on the history
-	    of <i>Yersinia pestis</i> as a pathogenic organism as put
-	    forward by biologists working from both phylogenetic
-	    (evolutionary) and palaeogenetic (aDNA retrieval)
-	    perspectives. As a result, instead of the “plague”
-	    functioning as a generic term for any kind of epidemic
-	    disease, or even a sustained catastrophic event (e.g., the
-	    ten Biblical “Plagues of Egypt”), plague—the disease
-	    caused by the bacterium Y. pestis— has become a
-	    biologically verifiable and a distinct entity in human
-	    history. </p>
+<Layout pageTitle = "About the Black Death Digital Archive">
+  <p>In the past decade, the BDDA project participants have pioneered
+    new approaches to the history of plague during the Second Plague
+    Pandemic, the 500-year period in which new strains of plague
+    spread throughout most of the Old World. This “new paradigm” in
+    plague studies has readily adopted the evolutionary perspective on
+    the history of <i>Yersinia pestis</i> as a pathogenic organism as
+    put forward by biologists working from both phylogenetic
+    (evolutionary) and palaeogenetic (aDNA retrieval) perspectives. As
+    a result, instead of the “plague” functioning as a generic term
+    for any kind of epidemic disease, or even a sustained catastrophic
+    event (e.g., the ten Biblical “Plagues of Egypt”), plague—the
+    disease caused by the bacterium Y. pestis— has become a
+    biologically verifiable and a distinct entity in human
+    history. </p>
 
 	    <p>The plague can now be tracked with precision through
 	    space and time, allowing us to create a narrative of the

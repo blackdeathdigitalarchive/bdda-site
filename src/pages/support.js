@@ -10,7 +10,7 @@ const SupportPage = () => {
 	    Joris Roosen at the Radcliffe Institute for Advanced Study to
 	    discuss the basic structure of the BDDA project.</p>
 
-	    <p>In summer 2019, Nükhet Varlık started to organize the collection
+	    <p>In summer 2019, <a href="https://orcid.org/0000-0001-6870-5945">Nükhet Varlık</a> started to organize the collection
 	    of data from the Ottoman archives with the help of BDDA project
 	    assistant Mesut Sayan and supported by a five-year SSHRC Insight
 	    Grant for “Rewriting Plague’s Second Pandemic: History Meets
@@ -39,7 +39,7 @@ const SupportPage = () => {
 	    <p>Black Death Digital Archive is supported by:</p>
 
 	    <ul>
-	      <li>University of South Carolina, College of Arts and Sciences</li>
+	      <li><a href="https://sc.edu/study/colleges_schools/artsandsciences/">University of South Carolina, College of Arts and Sciences</a></li>
 	      <li>Social Sciences and Humanities Research Council of Canada Insight Grant # 435-2018-0465</li>
 	      <li>Villanova University Albert Lepage Center for History in the Public Interest</li>
 	      <li>The Radcliffe Institute</li>

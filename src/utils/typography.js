@@ -1,13 +1,6 @@
-import Typography from "typography"
+import Typography from 'typography'
+import grandViewTheme from 'typography-theme-grand-view'
 
-const typography = new Typography({
-  baseFontSize: "18px",
-  baseLineHeight: 1.666,
-  headerFontFamily: [
-      "Impact",
-      "sans-serif",
-  ],
-  bodyFontFamily: ["Avenir", "serif"],
-})
+const typography = new Typography(grandViewTheme)
 
 export default typography
