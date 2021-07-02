@@ -25,7 +25,6 @@
 .heroText {
     color: whitesmoke;
     margin: auto;
-    max-width: 500px;
     font-size: 48px;
     padding-bottom: 3rem;
 }
@@ -51,3 +50,7 @@
 .nav-link-text {
     color: #FFFFF0;
 }
+
+.footer-logo {
+    margin-right: 20px;
+};
