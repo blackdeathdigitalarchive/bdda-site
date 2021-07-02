@@ -46,7 +46,9 @@ const IndexPage = () => {
 		    organism of plague, <i>Yersinia pestis</i>, allows us now to track
 		    plague’s movements across vast landscapes and demonstrate the
 		    connected stories linking outbreaks from China to Spain to
-		    sub-Saharan Africa. Just as the geographical footprint of the Second
+		    sub-Saharan Africa.</p>
+		    
+		    <p>Just as the geographical footprint of the Second
 		    Plague Pandemic has grown, so, too, has its chronological scope. We
 		    can now demonstrate that a sustained proliferation of strains
 		    of <i>Y. pestis</i> started in the late 12th or early 13th century,
