@@ -22,16 +22,19 @@ const Layout = ({ pageTitle, children }) => {
 			<Link to="/about" className={navLinkText}>about</Link>
 		    </li>
 		    <li className={navLinkItem}>
-			<Link to="/" className={navLinkText}>team</Link>
+			<Link to="/team" className={navLinkText}>team</Link>
 		    </li>
 		    <li className={navLinkItem}>
-			<Link to="/about" className={navLinkText}>resources</Link>
+			<Link to="/support" className={navLinkText}>sponsors &amp; partners</Link>
 		    </li>
 		    <li className={navLinkItem}>
-			<Link to="/about" className={navLinkText}>blog</Link>
+			<Link to="/database" className={navLinkText}>BDDA database</Link>
 		    </li>
 		    <li className={navLinkItem}>
-			<Link to="/support" className={navLinkText}>support</Link>
+			<Link to="/resources" className={navLinkText}>resources</Link>
+		    </li>
+		    <li className={navLinkItem}>
+			<Link to="/blog" className={navLinkText}>blog</Link>
 		    </li>
 		</ul>
 	    </nav>
